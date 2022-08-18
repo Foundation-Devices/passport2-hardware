@@ -1,0 +1,25 @@
+Use this file to document changes made to the designs. 
+
+As per section 3.3.b of LICENSE.txt, information should be added but NEVER REMOVED from this file. 
+
+When adding information, please provide a brief entry with a date and the nature of the modification for each design change.
+
+
+CHANGES:
+
+REV A1: 11/23/2022
+ - Initial Release
+
+REV A2: 11/29/2022
+ - Added testpoints. Added some alternates to BOM.
+
+REV A3: 12/11/2021
+ - Changed U1 to TPS79920YZU
+ - Added  C87-89, TP85. Removed R1, C1.
+
+REV A4: 04/19/2022
+ - DNI: U1, X1, C49, C55-56, C88-89
+ - Changed R34 to 1k, R6 to 4.7k, R27 to 300, and R25 to 2.2k
+
+REV A5: 05/02/2022
+ - Switched P19 from TL1014BF160QG to TL1014BF220QG

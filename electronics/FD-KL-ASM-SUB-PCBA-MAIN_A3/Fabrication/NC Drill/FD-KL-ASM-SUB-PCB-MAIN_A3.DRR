@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FD-KL-ASM-SUB-PCBA-MAIN.PcbDoc   12/11/2021  9:00:10 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : FD-KL-ASM-SUB-PCB-MAIN_A3-RoundHoles.TXT
+ASCII SlotHoles File : FD-KL-ASM-SUB-PCB-MAIN_A3-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             530       PTH        47.59inch (1208.88mm)
+T2      20mil (0.5mm)           +/-2mil (0.05mm)                  Slot              4         PTH        1.73inch (44.00mm)
+T3      30mil (0.75mm)                                            Round             2         NPTH       0.11inch (2.75mm)
+T4      69mil (1.75mm)                                            Round             4         NPTH       5.63inch (143.10mm)
+T5      205mil (5.2mm)                                            Round             2         NPTH       0.47inch (12.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              542
+
+Total Processing Time (hh:mm:ss) : 00:00:00
