@@ -1,0 +1,65 @@
+,Assembly / Sub Assembly ,LVL,CAD Name / Foundation SKU ,REV,Description,QTY,Custom,Manufacturer,MFG P/N
+1,FD-KL Asm Sub PCBA Main,1,FD-KL-ASM-SUB-PCBA-MAIN,A5.2,Populated main circuit board sub assembly,1,N/A,--,FD-KL-ASM-SUB-PCBA-MAIN
+1,FD-KL Asm Sub PCBA Main,2,FD-KL-PCB-MAIN,A3,"Unpopulated, bare, main circuit board",1,Y,--,FD-KL-PCB-MAIN
+1,FD-KL Asm Sub PCBA Main,2,FD-KL-EE-BOM,A,All electronic components that get placed on the bare PCB,1,N,See PCBA BOM,See PCBA BOM
+2,FD-KL Asm Sub Housing Mid,1,FD-KL-ASM-SUB-HOUSING-MID,B,Completed mid housing sub assembly,1,N/A,--,FD-KL-ASM-SUB-HOUSING-MID
+2,FD-KL Asm Sub Housing Mid,2,"FD-KL-FG-HOUSING-MID
+
+(FD-KL-MAGNET-DISC-0.125-0.625-REV-A x4)
+(FD-KL-ACTUATOR-BUTTON-POWER-REV-B x1)
+(FD-KL-LEAF-SPRING-0.15-REV-B x1)",A,"Die casted zinc alloy that is sandblasted, polished, electroplated with copper, and then e-coated with protective clear coating
+
+4x magnets , a thin sheet metal leaf spring, and a metal power button (same process as above) get installed into this mid housing component",1,Y,--,FD-KL-FG-HOUSING-MID
+2,FD-KL Asm Sub Housing Mid,2,FD-KL-LENS-CAMERA,B,"Optically clear PC plastic camera lens, printed black one side",1,Y,--,FD-KL-LENS-CAMERA
+2,FD-KL Asm Sub Housing Mid,2,FD-KL-ASM-SUB-PCBA-MAIN,A,Populated main circuit board sub assembly,1,Y,--,FD-KL-ASM-SUB-PCBA-MAIN
+2,FD-KL Asm Sub Housing Mid,2,FD-KL-SCREW-18-8-M1.6,A,M1.6-0.35 x 6 mm Machine Screw / Phillips / Flat Head / 18-8 ,4,N,Fastener Superstore,577418
+2,FD-KL Asm Sub Housing Mid,2,FD-KL-KAPTON-TAPE,A,"Kapton® Tape - 1 Mil, 1 1⁄4"" ",1,N,ULINE,S-17210
+2,FD-KL Asm Sub Housing Mid,2,FD-KL-MEMBRANE,B,Clear polyester film membrane with adhesive ,1,Y,--,FD-KL-MEMBRANE
+2,FD-KL Asm Sub Housing Mid,2,FD-KL-FOAM-KEYPAD,D,Black compressible EPDM foam with adhesive,4,Y,--,FD-KL-FOAM-KEYPAD
+2,FD-KL Asm Sub Housing Mid,2,FD-KL-DISPLAY-BACKER,A,Clear PETG plastic rails with adhesive,2,Y,--,FD-KL-DISPLAY-BACKER
+2,FD-KL Asm Sub Housing Mid,2,"FD-KL-ASM-FG-DISPLAY-LCD-IPS-2-INCH
+
+(FD-KL-SCREEN-LCD-IPS-2-INCH-REV-C x1)
+(FD-KL-GASKET-LCD-IPS-2-INCH-REV-A x1)
+(FD-KL-DISPLAY-LCD-IPS-2-INCH-REV-A x1)",C,"LCD module with strong cover glass, perimeter gasket, LCD display with backlight, and FPC connector",1,Y,--,FD-KL-ASM-FG-DISPLAY-LCD-IPS-2-INCH
+3,FD-KL Asm Sub Housing Front,1,FD-KL-ASM-SUB-HOUSING-FRONT,B,Completed front housing sub assembly,1,N/A,--,FD-KL-ASM-SUB-HOUSING-FRONT
+3,FD-KL Asm Sub Housing Front,2,"FD-KL-FG-HOUSING-FRONT
+
+(FD-KL-LENS-LIGHTPIPE x1)",B,Black PC/ABS plastic front housing with heat-staked lightpipe lens for LED light diffusion,1,Y,--,FD-KL-HOUSING-FRONT
+3,FD-KL Asm Sub Housing Front,2,"FD-KL-KEYPAD-UPPER
+
+(FD-KL-NAV-CENTER-REV-B x1)
+(FD-KL-NAV-RIGHT-REV-A x1)
+(FD-KL-NAV-LEFT-REV-A x1)",B,"Die casted zinc alloy that is sandblasted, polished, electroplated in copper, and then e-coated with protective clear coating",1,Y,--,"FD-KL-NAV-CENTER 
+FD-KL-NAV-RIGHT 
+FD-KL-NAV-LEFT"
+3,FD-KL Asm Sub Housing Front,2,"FD-KL-KEYPAD-LOWER
+",B,"Black ABS plastic keys overmolded with black TPE material, pad printed with white text, and UV coated with a protective clear coating",1,Y,--,FD-KL-KEYPAD-LOWER
+4,FD-KL Asm Sub Rear Cover,1,FD-KL-ASM-SUB-COVER-REAR,D,Completed rear cover sub assembly,1,N/A,--,FD-KL-ASM-SUB-COVER-REAR
+4,FD-KL Asm Sub Rear Cover,2,"FD-KL-FG-COVER-REAR
+
+(FD-KL-COVER-REAR x1)
+(FD-KL-MAGNET-DISC-0.125-0.625 x4)",D,White PC/ABS plastic rear cover with heat transfer wordmark and 4x magnets installed ,1,Y,--,FD-KL-FG-COVER-REAR
+5,FD-KL ASM TOP LVL DEVICE,1,FD-KL-ASM-TOP-LVL-DEVICE,B,Sub-assembled top level device ready for packout/shipping,1,N/A,--,FD-KL-ASM-TOP-LVL-DEVICE
+5,FD-KL Asm Sub Rear Cover,2,FD-KL-SCREW-THREADFORMING-0-.25,A,"No. 0 - 1/4"" Flat Head Torx Plus Threadforming Screw 18-8",2,N,DB Roberts,3BT-F9030-00
+5,FD-KL ASM TOP LVL DEVICE,2,FD-KL-LABEL-COVER,A,Battery area regulatory/informational cover label ,1,Y,--,FD-KL-LABEL-COVER
+5,FD-KL ASM TOP LVL DEVICE,2,FD-KL-BATTERY-LITHIUM-RECHARGEABLE,A,Rechargeable and user-removeable lithium ion battery ,1,Y,--,BL-5C
+6,FD-KL Asm Sub Packout Box,1,FD-KL-ASM-SUB-PACKOUT,B,Completed packout sub assembly,1,N/A,--,FD-KL-ASM-SUB-PACKOUT
+6,FD-KL Asm Sub Packout Box,2,"FD-KL-FG-BOX-SETUP-BRANDED
+
+(FD-KL-PKG-BOX-LID x1)
+(FD-KL-PKG-INSERT-STYRENE-TOP x1)
+(FD-KL-PKG-INSERT-STYRENE-BOTTOM x1)
+(FD-KL-PKG-BOX-BOTTOM x1)",A,"Branded setup box with base, lid, and two plastic trays that hold the accessories, paper collateral, and the final device",1,Y,--,FD-KL-BOX-SETUP-BRANDED
+6,FD-KL Asm Sub Packout Box,2,FD-KL-CABLE-USBC,A,Black power-only USBC to USBC cable,1,Y,--,FD-KL-CABLE-USBC
+6,FD-KL Asm Sub Packout Box,2,FD-KL-CASE-&-CARD-MICROSD,A,Industrial grade MicroSD card with clear plastic carrying case ,1,N,Western Digital ,SDSDQAF3-008G-XI-J
+6,FD-KL Asm Sub Packout Box,2,FD-KL-READER-USBC-MICROSD,A,Black MicroSD card reader/adapter for USBC devices,1,Y,--,FD-KL-READER-USBC-MICROSD
+6,FD-KL Asm Sub Packout Box,2,FD-KL-READER-LIGHTNING-MICROSD,A,Black MicroSD card reader/adapter for Apple devices,1,Y,--,FD-KL-READER-LIGHTNING-MICROSD
+6,FD-KL Asm Sub Packout Box,2,FD-KL-CARD-QS,A,Premium card stock quick start guide ,1,Y,--,FD-KL-CARD-QS
+6,FD-KL Asm Sub Packout Box,2,FD-KL-CARD-BACKUP,B,Premium card stock backup card (perforated),1,Y,--,FD-KL-CARD-SECURITY
+6,FD-KL Asm Sub Packout Box,2,FD-KL-STICKERS-LOGO,A,2x Foundation logo stickers on a release film,1,Y,--,FD-KL-STICKERS-LOGO
+6,FD-KL Asm Sub Packout Box,2,FD-KL-SHRINK,A,Shrink wrap that seals branded packaging box ,1,N,ULINE,S-16357
+7,FD-KL ASM TOP LVL PRODUCT,1,FD-KL-PRODUCT-PP,A,"Final QC'd device, in branded packaging with accessories and paper collateral, shrink wrapped, ready for shipping",1,N/A,--,FD-KL-PRODUCT-PP
+7,FD-KL ASM TOP LVL PRODUCT,2,FD-KL-BOX-OVERPACK,A,White indestructo cardboard overpack box mailer,1,N,ULINE,S-430
+7,FD-KL ASM TOP LVL PRODUCT,2,FD-KL-TAPE-TAMPER,A,Blue tamper evident tape used to seal overpack box,1,N,ULINE,S-16981BLU
+7,FD-KL ASM TOP LVL PRODUCT,2,FD-KL-LABEL-AIR-LITHIUM,A,Regulatory lithium air label for shipping >2 devices at once,1,N,ULINE,S-23263
