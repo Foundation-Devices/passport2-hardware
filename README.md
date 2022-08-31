@@ -7,8 +7,10 @@ This repository contains the electromechanical design files for Passport.
 ## Folder Organization
 This repo contains the following folders:
 
-- **`electrical`** - The Passport PCB design files.
+- **`electronics`** - The Passport PCB design files.
 - **`mechanical`** - The Passport enclosure design files, including front cover, mid-housing, rear cover and keypad parts.
+- **`bill-of-materials`** - Spreadsheet list of all custom and stock physical components used to assemble Passport.
+
 
 ## Licensing
 License information can be found in each folder.
