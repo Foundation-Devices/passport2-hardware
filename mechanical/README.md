@@ -6,7 +6,6 @@ This repository contains the full production assembly for Passport, an open sour
 
 ### Folder Organization
 This repo contains the following folders:
-- **`Bill of Materials`** - all custom and stock physical components used to assemble Passport.
 - **`STEP Files`** - a set of 3D models for Passport in STEP format.
 
 ### Documenting Changes
