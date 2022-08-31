@@ -4,34 +4,13 @@ This repository contains the full production assembly for Passport, an open sour
 
 ![Passport](https://user-images.githubusercontent.com/62639971/179804265-acd42077-fb86-46bc-b6da-1763379d1fd9.png)
 
-## Project Structure
-Passport consists of the following components:
-- STEP Files
-- Bill of Materials
-
-**STEP Files** contains a set of 3D models for Passport in STEP format.
-
-**Bill of Materials** contains all custom and stock physical components used to assemble Passport.
-
 ### Folder Organization
 This repo contains the following folders:
-- Bill of Materials
-- Mechanical Design Files
-- passport-electronics – this is a submodule
-- passport-firmware – this is a submodule
-
-**Bill of Materials** contains all custom and stock physical components used to assemble Passport.
-
-**Mechanical Design Files** contains CAD files (STL, STEP, SOLIDWORKS) and PDF drawings. 
-Full STL and STEP assemblies exceed Github's size limit and can be found [here](https://drive.google.com/drive/u/0/folders/1Z9FJ9kxqDMWf-vwsLpfFheNOHl8vTlpA).
-
-**passport-electronics** is a submodule linking to the repo containing Passport's circuit designs.
-
-**passport-firmware** is a submodule linking to the repo containing Passport's firmware.
+- **Bill of Materials** - all custom and stock physical components used to assemble Passport.
+- **STEP Files** - a set of 3D models for Passport in STEP format.
 
 ### Documenting Changes
 This repository includes a CHANGES.txt file. We will document all design changes in this file. If you submit a pull request that makes changes to the circuit designs, please update CHANGES.txt with a brief description of your changes.
-
 
 ## Security Vulnerability Disclosure
 Please report suspected security vulnerabilities in private to security@foundationdevices.com. Please do NOT create publicly viewable issues for suspected security vulnerabilities.
