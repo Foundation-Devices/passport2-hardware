@@ -9,13 +9,16 @@ Above is a basic block diagram for Passport's circuit Board.
 ## Project Structure
 
 ### Folder Organization
-The circuit board files are in several sub-folders under the `PCB` folder, which is the internal code name of Passport 2.
+The circuit board files are in several sub-folders under the `PCB` folder.
 
 - Assembly
+- Documentation
 - Fabrication
 - Source Files
 
 **Assembly** contains data for assembling components onto a bare circuit board. It includes drawings, bill of materials, and coordinates for pick-and-place and test points.
+
+**Documentation** contains simple PDF overview documents of the schematics and board design.
 
 **Fabrication** contains data for the circuit board fabricator. It includes drawings, Gerber files, and coordinates for drilling and test points.
 
